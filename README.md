@@ -1,49 +1,5 @@
-# Sistema Escolar — Cadastro de Alunos
-
-Cadastro de alunos com listagem, cadastro e exclusão, feito em React + Vite consumindo uma API simulada com json-server.
-
-Projeto da disciplina de Programação para Internet — IFRN Campus Pau dos Ferros.
-
-## Pré-requisitos
-
-- [Node.js](https://nodejs.org/) instalado (você já deve ter, mas confira com `node -v` no terminal).
-
-## Como baixar o projeto
-
-1. Baixe o projeto pelo GitHub: **https://github.com/JefersonQueiroga/sistema-escolar**
-   - Pelo navegador: entre no link, clique em **Code > Download ZIP** e extraia a pasta.
-   - Ou, se tiver o Git instalado, rode no terminal (PowerShell):
-     ```powershell
-     git clone https://github.com/JefersonQueiroga/sistema-escolar.git
-     ```
-2. Abra a pasta do projeto no VS Code (ou no terminal, navegue até ela com `cd`).
-
-## Como instalar as dependências
-
-No terminal, dentro da pasta do projeto, rode:
-
-```powershell
-npm install
-```
-
-## Como rodar o projeto
-
-Este projeto precisa de **dois terminais abertos ao mesmo tempo** — um para a API simulada e outro para a aplicação React.
-
-**Terminal 1 — API simulada (json-server):**
-```powershell
-npx json-server --watch db.json --port 3000
-```
-
-**Terminal 2 — aplicação React (Vite):**
-```powershell
-npm run dev
-```
-
-Depois, abra no navegador o endereço mostrado no terminal (geralmente `http://localhost:5173`).
-
-> Se aparecer uma mensagem de erro de conexão na tela, confira se o Terminal 1 (json-server) ainda está rodando.
-
-## Screenshot
-
-_Adicione aqui uma captura de tela do projeto em funcionamento._
+<img width="1917" height="1078" alt="Captura de tela 2026-09-23 212859" src="https://github.com/user-attachments/assets/d60e57c4-f352-43bd-b772-8c2d590c7822" />
+<img width="1917" height="1078" alt="Captura de tela 2026-09-23 212412" src="https://github.com/user-attachments/assets/6b482289-532b-43a1-a1fb-443f54dc56c3" />
+<img width="1917" height="1078" alt="Captura de tela 2026-09-23 212358" src="https://github.com/user-attachments/assets/9088fd7c-9e2f-4a64-8246-e2fa3b1673fe" />
+<img width="1917" height="1077" alt="Captura de tela 2026-09-23 211320" src="https://github.com/user-attachments/assets/28414123-1d4f-4549-9d73-64ca5f8422c0" />
+<img width="1917" height="1078" alt="Captura de tela 2026-09-23 211304" src="https://github.com/user-attachments/assets/30b0dac9-e4e1-4dc4-90d2-1deb0a9cdec1" />
